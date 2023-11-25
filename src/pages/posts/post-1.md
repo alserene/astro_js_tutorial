@@ -1,18 +1,16 @@
 ---
-title: 'My First Blog Post'
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'I love mushrooms!'
+pubDate: 2023-11-25
+description: 'This is a blog post dedicated to my love of mushrooms.'
+author: 'Alice'
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png'
-    alt: 'The full Astro logo.'
+    url: 'https://i.pinimg.com/originals/f1/13/ec/f113ecc4ed64fbcc0142e3b48015ee45.png'
+    alt: 'Cute Shroom.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My First Blog Post
 
-Published on: 2022-07-01
-
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+Welcome to my _new blog_ about learning Astro! Here, I mostly follow the instructions, but sometimes I talk about mushrooms or other cute things instead.
 
 ## What I've accomplished
 
@@ -24,4 +22,4 @@ Welcome to my _new blog_ about learning Astro! Here, I will share my learning jo
 
 ## What's next
 
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+Watch this space for more tutorial/mushroom content.
