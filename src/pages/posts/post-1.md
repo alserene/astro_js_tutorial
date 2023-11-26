@@ -7,7 +7,7 @@ author: 'Alice'
 image:
     url: 'https://i.pinimg.com/originals/f1/13/ec/f113ecc4ed64fbcc0142e3b48015ee45.png'
     alt: 'Cute Shroom.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro-js", "mushrooms", "shrooms", "mycelium"]
 ---
 
 Welcome to my _new blog_ about learning Astro! Here, I mostly follow the instructions, but sometimes I talk about mushrooms or other cute things instead.

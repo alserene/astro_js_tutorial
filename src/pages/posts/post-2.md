@@ -7,7 +7,7 @@ image:
     url: "https://img.freepik.com/premium-photo/cute-mushroom-with-cute-face_900101-26538.jpg"
     alt: "A cute mushroom."
 pubDate: 2023-11-25
-tags: ["astro", "blogging", "learning in public", "successes"]
+tags: ["astro-js", "mushrooms", "fungi", "shroomies", "ilovemushrooms"]
 ---
 Look at me go! Another page entirely dedicated to my love of mushrooms.
 

@@ -2,12 +2,12 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: A third blog post about mushies.
 author: Alice
-description: "I had some challenges, but asking in the community really helped!"
+description: "One can always have more mushrooms!"
 image:
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQelPOZJd00gD6AVDZCWi0dtd0gzgvrNG34eQ&usqp=CAU"
     alt: "A cute mushroom."
 pubDate: 2023-11-25
-tags: ["astro", "learning in public", "setbacks", "community"]
+tags: ["astro-js", "fungi", "moremushrooms", "mushrooms"]
 ---
 Really, one can never have enough mushroom content.
 
