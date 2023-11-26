@@ -1,10 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Greeting from '../components/Greeting.jsx';
 
 const pageTitle = "Home Page";
 const imgLink = "https://www.shutterstock.com/image-vector/set-cute-chibi-mushroom-mascot-600nw-2313282053.jpg";
 ---
 <BaseLayout pageTitle={pageTitle}>
-  <h2>Welcome to my sweet new Astro-js blog about mushrooms.</h2>
-  <img src={imgLink} width="600" alt="Cute mushroom." />
+    <h2>Welcome to my sweet new Astro-js blog about mushrooms.</h2>
+    <img src={imgLink} width="600" alt="Cute mushroom." />
+    <Greeting client:load messages={["Hiya!", "Hi there!", "Hello friend, welcome :)"]} />
 </BaseLayout>
